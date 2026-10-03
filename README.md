@@ -1,3 +1,10 @@
+> **SableOS project note:** this repository is retained as a RestlessOS / Treble
+> compatibility reference and known-fix inventory. It is **not** the SableOS
+> runtime, security baseline, product authority, release image, or patch stack.
+> Current SableOS Titan 2 engineering uses the N1D/C3B Graphene/AOSP-derived
+> baseline with bounded evidence-driven compatibility admission. No RestlessOS
+> patch is admitted merely because it exists here.
+
 # RestlessOS
 
 RestlessOS is an **unofficial**, **unaffiliated** fork of
