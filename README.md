@@ -1,3 +1,5 @@
+> **Current status (2026-10-12):** See [the reconciled engineering gate ledger](docs/ENGINEERING_STATUS_2026-10-12.md). Older milestone status below is retained as dated history. Titan 2 N1F/M4 full-image qualification and flash authorization remain OPEN.
+
 > **SableOS project note:** this repository is retained as a RestlessOS / Treble
 > compatibility reference and known-fix inventory. It is **not** the SableOS
 > runtime, security baseline, product authority, release image, or patch stack.
