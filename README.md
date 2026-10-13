@@ -1,3 +1,5 @@
+> **Current status — 2026-10-13:** Titan 2 M4 system_a write succeeded but Android boot failed; hybrid-derived integration is now strictly host-evidence gated. **No new build or flash authority.** [Engineering status](docs/ENGINEERING_STATUS_2026-10-13.md). Older dated milestones below remain historical; other devices are unchanged.
+
 > **Current status (2026-10-12):** See [the reconciled engineering gate ledger](docs/ENGINEERING_STATUS_2026-10-12.md). Older milestone status below is retained as dated history. Titan 2 N1F/M4 full-image qualification and flash authorization remain OPEN.
 
 > **SableOS project note:** this repository is retained as a RestlessOS / Treble
